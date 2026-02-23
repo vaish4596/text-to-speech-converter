@@ -1,51 +1,62 @@
-🔊 Text-To-Speech Converter
+# 🔊 TEXT TO SPEECH CONVERTER
 
-A simple and interactive Text-to-Speech (TTS) web application built using HTML, CSS, and JavaScript.
-This project uses the browser’s Web Speech API to convert typed text into natural-sounding speech.
+## 🚀 Project Overview
 
-🚀 Features
+A browser-based **Text-to-Speech (TTS) Web Application** built using **HTML, CSS, and JavaScript**.
 
-🎙 Multiple voice selection
+This application converts typed text into natural-sounding speech using the **Web Speech API** built into modern browsers.
 
-⚡ Adjustable speech rate
+---
 
-🎚 Adjustable pitch control
+## ✨ Features
 
-⏹ Start & Stop speech functionality
+- 🎙 Multiple Voice Selection  
+- ⚡ Adjustable Speech Rate  
+- 🎚 Adjustable Pitch Control  
+- ▶️ Speak & ⏹ Stop Functionality  
+- 🌐 Works directly in Chrome Browser  
 
-🌐 Works directly in modern browsers (Best in Chrome)
+---
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
-HTML5
+- HTML5  
+- CSS3  
+- JavaScript  
+- Web Speech API  
 
-CSS3
+---
 
-JavaScript
-
-Web Speech API
-
-🌍 Live Demo
-
-👉 [Live Demo Link Here]
-
-📂 Project Structure
+## 📂 Project Structure
 text-to-speech-converter/
 │
 ├── index.html
 ├── style.css
 └── script.js
-📚 What I Learned
 
-Working with Browser APIs
+---
 
-Handling JavaScript events
 
-DOM manipulation
+---
 
-Speech synthesis using Web APIs
+## 🌍 Live Demo
 
-👩‍💻 Author
+👉 https://yourusername.github.io/text-to-speech-converter/
 
-Vaishnavi Shetty
-B.E. Information Science & Engineering
+---
+
+## 📚 What I Learned
+
+- Working with Browser APIs  
+- DOM Manipulation  
+- Event Handling in JavaScript  
+- Speech Synthesis using Web APIs  
+
+---
+
+## 👩‍💻 Author
+
+**Vaishnavi Shetty**  
+B.E. Information Science & Engineering  
+
+---
